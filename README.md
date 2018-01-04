@@ -1,6 +1,6 @@
 # ReadExcelFile in Java
 
-Add jars of below linsk 5 jars
+Add 5 jars from below links
 
 Maven Repo
 ------------
