@@ -1,6 +1,6 @@
 # ReadExcelFile in Java
 
-Add jars of below linsk 5 jars
+Add 5 jars from below links
 
 Maven Repo
 ------------
@@ -31,7 +31,8 @@ https://mvnrepository.com/artifact/org.apache.poi/ooxml-schemas/1.0
 https://mvnrepository.com/artifact/dom4j/dom4j/1.6.1
 
 
-Sample.xlsx file in src folder 
-write local path of sample.xlsx  in main class and run
+Sample.xlsx file in src folder
+
+Write local path of sample.xlsx  in main class and run
 
 Enjoy
